@@ -1,4 +1,4 @@
-# node-red-documentation
+<img width="899" height="582" alt="Screenshot 2025-09-01 at 2 46 04 PM" src="https://github.com/user-attachments/assets/4bd7ae46-6fed-4642-a360-97aed600b853" /># node-red-documentation
 # Node-RED Overview
 
 ## 🟢 What is Node-RED?
@@ -44,3 +44,4 @@ We want to build a small application that:
 - Code-heavy (~50–70 lines for basic CRUD).  
 
 ### Node-RED Flow
+<img width="899" height="582" alt="Screenshot 2025-09-01 at 2 46 04 PM" src="https://github.com/user-attachments/assets/cb940492-010c-4ce8-8a3f-add05485a306" />
